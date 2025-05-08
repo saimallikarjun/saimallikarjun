@@ -13,7 +13,7 @@
 
 I'm Chandaluri Sai Mallikarjun, a passionate and motivated third-year B.Tech student specializing in **Information Technology** at **VVIT, Guntur**.
 
-With a strong foundation from my **Diploma in Engineering** and hands-on experience in **Java, Python, Web Development, and SQL**, I enjoy building secure and practical software systems. I'm particularly interested in **cybersecurity**, **Android development**, and projects that solve real-world problems.
+With a strong foundation from my **Diploma in Engineering** and hands-on experience in **Java, Python, Web Development, and SQL**, I enjoy building secure and practical software systems. I'm particularly interested in **Web Development**, **Software development**, and projects that solve real-world problems.
 
 I've worked on projects like an **Online Exam Fraud Detection System** and completed multiple certifications through **Google Cloud**, **NPTEL**, and **Skill India**.
 
@@ -62,7 +62,6 @@ I'm also a proud NCC cadet with B & C certificates — bringing discipline, lead
 - Tackles cheating and impersonation in online exams through robust proctoring.
 - Emphasizes secure, real-time student monitoring.
 - **Technologies:** Java, HTML, CSS, SQL  
-🔗 GitHub Link: *[coming soon]*
 
 ---
 
